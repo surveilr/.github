@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/surveilr-logo-with-text-264x66px.png" width="264" height="66"/>
-</p>
-
 The Resource Surveillance & Integration Engine (`surveilr`) is a stateful data preparation, orchestration and integration platform for mission critical systems that need to integrate and operate on common data in a local-first, edge-based SQL-centric manner.
 
 - Stateful means that the `surveilr` is not just passing data between multiple sytems but allows storing the data in an opinionated universal relational database schema.
