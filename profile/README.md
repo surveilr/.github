@@ -1,20 +1,31 @@
 ### Resource Surveillance & Integration Engine (`surveilr`) for Critical Systems
 
-In today’s fast-paced world, organizations in fields like regulatory science,
-compliance, cybersecurity, and healthcare face a growing need to manage and
-share large amounts of critical data across multiple systems. This data must not
-only be handled securely, but it also needs to be easily accessible for audits,
-compliance reporting, and decision-making.
+In today’s fast-paced environment, organizations in industries such as finance,
+energy, healthcare, pharmaceuticals, aerospace, and cybersecurity must aggregate
+data from multiple sources to navigate complex decision-making processes and
+meet stringent regulatory compliance requirements.
 
-This is where the **Resource Surveillance & Integration Engine**—more
-conveniently referred to as **`surveilr`** (pronounced "surveiler")—comes in.
+The **Resource Surveillance & Integration Engine** -- more conveniently referred
+to as **`surveilr`** (pronounced "_surveiler_") -- is designed to address these
+challenges by providing a centralized platform for evidence surveillance and
+data aggregation, enabling organizations to securely collect, store, and analyze
+critical data from across their systems.
+
+With auditable, queryable, and machine-attestable evidence, surveilr ensures
+that compliance reporting and decision-making are not only streamlined but also
+backed by provable data. is designed to address these challenges by providing a
+centralized platform for evidence surveillance and data aggregation, enabling
+organizations to securely collect, store, and analyze critical data from across
+their systems. With auditable, queryable, and machine-attestable evidence,
+surveilr ensures that compliance reporting and decision-making are not only
+streamlined but also backed by provable data.
 
 **`surveilr`** is an advanced platform designed to streamline data integration
-across your organization, with a special focus on **evidence** data—proving
+across your organization, with a special focus on **evidence** data -- proving
 whether policies are being followed or whether systems are meeting key
 standards. Whether you’re dealing with regulatory requirements, compliance
 audits, or patient data privacy, **`surveilr`** makes the complex task of
-managing data much easier.
+managing machine attestation data much easier.
 
 💬
 [Ask questions about `surveilr` via ChatGPT](https://chatgpt.com/g/g-ra0bKz5rY-surveilr-assistant).
