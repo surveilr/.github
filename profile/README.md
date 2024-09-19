@@ -6,6 +6,8 @@ This is where the **Resource Surveillance & Integration Engine**—more convenie
 
 **`surveilr`** is an advanced platform designed to streamline data integration across your organization, with a special focus on **evidence** data—proving whether policies are being followed or whether systems are meeting key standards. Whether you’re dealing with regulatory requirements, compliance audits, or patient data privacy, **`surveilr`** makes the complex task of managing data much easier.
 
+💬 [Ask questions about `surveilr` via ChatGPT](https://chatgpt.com/g/g-ra0bKz5rY-surveilr-assistant).
+
 ### How `surveilr` Works
 
 - **Stateful Data Integration**: Unlike simple data transfer tools, `surveilr` doesn’t just move information between systems. It stores and organizes data in a way that is standardized, making it easy to query and manage.
