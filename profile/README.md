@@ -1,28 +1,19 @@
 ### Resource Surveillance & Integration Engine (`surveilr`) for Critical Systems
 
-In today’s fast-paced environment, organizations in industries such as finance,
-energy, healthcare, pharmaceuticals, aerospace, and cybersecurity must aggregate
-data from multiple sources to navigate complex decision-making processes and
-meet stringent regulatory compliance requirements.
+Organizations in industries such as finance, energy, healthcare,
+pharmaceuticals, aerospace, and cybersecurity must aggregate data from multiple
+sources to navigate complex evidence-driven decision-making processes and meet
+stringent regulatory compliance requirements.
 
-The **Resource Surveillance & Integration Engine** -- more conveniently referred
-to as **`surveilr`** (pronounced "_surveiler_") -- is designed to address these
-challenges by providing a centralized platform for evidence surveillance and
-data aggregation, enabling organizations to securely collect, store, and analyze
-critical data from across their systems.
-
-With auditable, queryable, and machine-attestable evidence, surveilr ensures
-that compliance reporting and decision-making are not only streamlined but also
-backed by provable data. is designed to address these challenges by providing a
-centralized platform for evidence surveillance and data aggregation, enabling
-organizations to securely collect, store, and analyze critical data from across
-their systems. With auditable, queryable, and machine-attestable evidence,
-surveilr ensures that compliance reporting and decision-making are not only
-streamlined but also backed by provable data.
+The **Resource Surveillance & Integration Engine**&mdash;more conveniently
+referred to as **`surveilr`** (pronounced "_surveiler_")&mdash; is designed to
+address modern challenges by providing a centralized platform for evidence
+surveillance and data aggregation, enabling organizations to securely collect,
+analyze and audit critical evidentiary data from across their systems.
 
 **`surveilr`** is an advanced platform designed to streamline data integration
-across your organization, with a special focus on **evidence** data -- proving
-whether policies are being followed or whether systems are meeting key
+across your organization, with a special focus on **evidence** data &mdash;
+proving whether policies are being followed or whether systems are meeting key
 standards. Whether you’re dealing with regulatory requirements, compliance
 audits, or patient data privacy, **`surveilr`** makes the complex task of
 managing machine attestation data much easier.
