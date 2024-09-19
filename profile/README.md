@@ -1,4 +1,4 @@
-#### Resource Surveillance & Integration Engine (`surveilr`) for Critical Systems
+### Resource Surveillance & Integration Engine (`surveilr`) for Critical Systems
 
 In today’s fast-paced world, organizations in fields like regulatory science, compliance, cybersecurity, and healthcare face a growing need to manage and share large amounts of critical data across multiple systems. This data must not only be handled securely, but it also needs to be easily accessible for audits, compliance reporting, and decision-making.
 
@@ -6,7 +6,7 @@ This is where the **Resource Surveillance & Integration Engine**—more convenie
 
 **`surveilr`** is an advanced platform designed to streamline data integration across your organization, with a special focus on **evidence** data—proving whether policies are being followed or whether systems are meeting key standards. Whether you’re dealing with regulatory requirements, compliance audits, or patient data privacy, **`surveilr`** makes the complex task of managing data much easier.
 
-#### How `surveilr` Works
+### How `surveilr` Works
 
 - **Stateful Data Integration**: Unlike simple data transfer tools, `surveilr` doesn’t just move information between systems. It stores and organizes data in a way that is standardized, making it easy to query and manage.
   
@@ -14,11 +14,11 @@ This is where the **Resource Surveillance & Integration Engine**—more convenie
 
 - **SQL-Centric**: `surveilr` uses the power of SQL, a universal database language, to ensure your data can be accessed, searched, and analyzed efficiently.
 
-#### Why Does This Matter?
+### Why Does This Matter?
 
 For industries like **regulatory science**, **cybersecurity**, and **healthcare**, **`surveilr`** ensures that critical data—whether it's regulatory reports, cybersecurity logs, or patient records—can be managed safely and efficiently. It supports **secure data transmission** and guarantees that sensitive information is anonymized or de-identified when needed, helping your organization remain compliant with **HIPAA** and other data protection standards.
 
-#### Key Benefits
+### Key Benefits
 
 - **Streamlined Compliance**: `surveilr` ensures that all compliance evidence is collected, organized, and ready for audit, saving time and reducing human error.
   
@@ -28,7 +28,7 @@ For industries like **regulatory science**, **cybersecurity**, and **healthcare*
 
 - **Scalability**: Whether you're handling a small team or a large enterprise, `surveilr`’s flexible architecture adapts to your needs, providing a secure, efficient solution that grows with your organization.
 
-#### Why `surveilr` is So Widely Applicable
+### Why `surveilr` is So Widely Applicable
 
 One of the key reasons **`surveilr`** is so widely applicable across industries is because it’s a **complete SQL-based data aggregation and orchestration platform**. At its core is an opinionated, superbly designed **universal relational database schema** that can handle content from almost any source. This powerful schema, coupled with **`surveilr`’s content assembler**, allows it to support not only industry-neutral formats like:
 
@@ -55,7 +55,7 @@ This capability is particularly valuable because it **eliminates the need for co
 
 By using `surveilr` as a **universal data aggregator**, businesses can confidently prepare and share data across internal and external systems with the peace of mind that it has been properly processed, anonymized, and secured.
 
-#### `surveilr` for Vendor Assessment and Corporate Compliance
+### `surveilr` for Vendor Assessment and Corporate Compliance
 
 In industries where supply chain partners are involved—such as healthcare, energy, and cybersecurity—vendors must often evaluate and police each other’s policy adherence. **`surveilr`** enables companies to do just that in a secure and efficient way.
 
@@ -63,13 +63,13 @@ With **`surveilr`**, you can collect **policy adherence evidence** directly from
 
 Corporate compliance leaders and cybersecurity officers can also use **`surveilr`** to gather data anonymously or with attribution, depending on the need. Whether through automated processes or manual reviews, `surveilr` allows organizations to enforce or audit policy adherence by capturing activities across systems and verifying whether individuals or teams are following established procedures. By pulling data from emails, lifecycle tools like GitHub, SaaS platforms, or logs, **`surveilr`** provides a clear picture of whether key standards are being met.
 
-##### Quality Management for Safety-Critical Industries
+#### Quality Management for Safety-Critical Industries
 
 Industries such as **healthcare**, **energy**, **aviation**, and other safety-critical sectors require stringent **quality management** protocols to ensure the safety of their operations. In these environments, failure to adhere to quality protocols can have serious consequences. 
 
 **`surveilr`** is a powerful tool for quality management organizations tasked with collecting and auditing data to ensure that staff are following proper protocols. By aggregating data from disparate systems and auditing logs or records, `surveilr` makes it easier to verify that proper safety and quality processes are in place. Whether for internal audits, external regulatory reviews, or continuous quality improvement, `surveilr` helps ensure that critical operations adhere to the highest standards.
 
-#### `surveilr` Enables Easier Evidence-Based Decision Making
+### `surveilr` Enables Easier Evidence-Based Decision Making
 
 **Evidence-based decision making** is the process of using data and factual evidence to guide important business decisions, ensuring that choices are grounded in reality rather than intuition or incomplete information. While this approach is critical for success, executives often struggle with gathering enough reliable evidence to make sound decisions. According to **Harvard Business Review**, many executives lack the data they need for decision making, which is often scattered across systems, incomplete, or difficult to access [[HBR, 2020](https://hbr.org/2020/01/how-executives-can-make-better-decisions)].
 
