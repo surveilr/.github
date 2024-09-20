@@ -1,6 +1,6 @@
 # `surveilr` SQL Packages
 
-```mermaidjs
+```mermaid
 flowchart LR
 
 %% Combine Industries, Patterns, and Disciplines into single boxes with their instances listed inside
