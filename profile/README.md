@@ -43,7 +43,7 @@ For industries like **regulatory science**, **cybersecurity**, and
 regulatory reports, cybersecurity logs, or patient records—can be managed safely
 and efficiently. It supports **secure data transmission** and guarantees that
 sensitive information is anonymized or de-identified when needed, helping your
-organization remain compliant with **HIPAA** and other data protection
+organization remain compliant with **HIPAA**, **GDPR** and other data protection
 standards.
 
 ### Key Benefits
