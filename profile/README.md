@@ -1,4 +1,4 @@
-### Resource Surveillance & Integration Engine (`surveilr`) for Critical Systems
+### Resource Surveillance & Integration Engine™️ (`surveilr`™️) for Critical Systems
 
 Organizations in industries such as finance, energy, healthcare,
 pharmaceuticals, aerospace, and cybersecurity must aggregate data from multiple
